@@ -1,0 +1,15 @@
+{
+  "name": "Grapevine Library",
+  "slug": "grapevine",
+  "easId": "fb5b4247-3067-4af9-ad07-539f0c5cb9b5",
+  "reverseDns": "org.aspendiscovery.grapevinelibrary",
+  "discoveryUrl": "https://grapevine.aspendiscovery.org/",
+  "greenhouseUrl": "https://grapevine.aspendiscovery.org/",
+  "libraryId": "5",
+  "themeId": "4",
+  "background": "#310470",
+  "sentryProject": "aspen-lida-grapevine",
+  "sentryDsn": "https://ab8557ce137822218e0694c2052b2d6b@o994439.ingest.us.sentry.io/4507341431963648",
+  "ascAppId": "6736953681",
+  "logLevel": "0"
+}
